@@ -2,4 +2,5 @@
 
 class AppRouters {
   static const String SPLASHROUTE = '/splash';
+  static const String HOMEROUTE = '/home';
 }
